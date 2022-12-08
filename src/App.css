@@ -1,0 +1,10 @@
+.nav{
+  background-color: brown;
+  color: white;
+display: flex ;
+}
+
+.app{
+  background-color: #f6ce9e4d;
+  height: 1266px;
+}
